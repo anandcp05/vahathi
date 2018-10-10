@@ -329,7 +329,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="faq-details">
             <div class="panel-group" id="accordion">
               <!-- Panel Default -->
@@ -337,14 +337,14 @@
                 <div class="panel-heading">
                   <h4 class="check-title">
 											<a data-toggle="collapse" class="active" data-parent="#accordion" href="#check1">
-                                                <span class="acc-icons"></span>Consectetur adipisicing elit.
+                                                <span class="acc-icons"></span>Question1
 											</a>
 										</h4>
                 </div>
                 <div id="check1" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero
+                      Answer1
                     </p>
                   </div>
                 </div>
@@ -355,14 +355,14 @@
                 <div class="panel-heading">
                   <h4 class="check-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                                                <span class="acc-icons"></span> Dolore magnam quidem repellat.
+                                                <span class="acc-icons"></span> Question2
 											</a>
 										</h4>
                 </div>
                 <div id="check2" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero aperiam sint nulla beatae eos.
+                     Answer2
                     </p>
                   </div>
                 </div>
@@ -373,14 +373,14 @@
                 <div class="panel-heading">
                   <h4 class="check-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                                                <span class="acc-icons"></span>Redug Lefes dolor sit.
+                                                <span class="acc-icons"></span>Question3
 											</a>
 										</h4>
                 </div>
                 <div id="check3" class="panel-collapse collapse ">
                   <div class="panel-body">
                     <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero aperiam sint nulla beatae eos.
+                      Answer3
                     </p>
                   </div>
                 </div>
@@ -391,76 +391,19 @@
                 <div class="panel-heading">
                   <h4 class="check-title">
 											<a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                                <span class="acc-icons"></span>Maiores alias accusamus
+                                                <span class="acc-icons"></span>Question4
 											</a>
 										</h4>
                 </div>
                 <div id="check4" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
-                      Redug Lefes dolor sit amet, consectetur adipisicing elit. Aspernatur, tempore, commodi quas mollitia dolore magnam quidem repellat, culpa voluptates laboriosam maiores alias accusamus recusandae vero aperiam sint nulla beatae eos.
+                      Answer4
                     </p>
                   </div>
                 </div>
               </div>
               <!-- End Panel Default -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="tab-menu">
-            <!-- Nav tabs -->
-            <ul class="nav nav-tabs" role="tablist">
-              <li class="active">
-                <a href="#p-view-1" role="tab" data-toggle="tab">Project</a>
-              </li>
-              <li>
-                <a href="#p-view-2" role="tab" data-toggle="tab">Planning</a>
-              </li>
-              <li>
-                <a href="#p-view-3" role="tab" data-toggle="tab">Success</a>
-              </li>
-            </ul>
-          </div>
-          <div class="tab-content">
-            <div class="tab-pane active" id="p-view-1">
-              <div class="tab-inner">
-                <div class="event-content head-team">
-                  <h4>Project</h4>
-                  <p>
-                    Redug Lares dolor sit amet, consectetur adipisicing elit. Animi vero excepturi magnam ducimus adipisci voluptas, praesentium maxime necessitatibus in dolor dolores unde ab, libero quo. Aut, laborum sequi.
-                  </p>
-                  <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis placeat.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="tab-pane" id="p-view-2">
-              <div class="tab-inner">
-                <div class="event-content head-team">
-                  <h4>Planning</h4>
-                  <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis.
-                  </p>
-                  <p>
-                    Redug Lares dolor sit amet, consectetur adipisicing elit. Animi vero excepturi magnam ducimus adipisci voluptas, praesentium maxime necessitatibus in dolor dolores unde ab, libero quo. Aut.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="tab-pane" id="p-view-3">
-              <div class="tab-inner">
-                <div class="event-content head-team">
-                  <h4>Success</h4>
-                  <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis placeat.
-                  </p>
-                  <p>
-                    voluptas, praesentium maxime cum fugiat,magnam ducimus adipisci voluptas, praesentium architecto ducimus, doloribus fuga itaque omnis.
-                  </p>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -489,27 +432,27 @@
                 <div class="single-testi">
                   <div class="testi-text">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar luctus est eget congue.<br>consectetur adipiscing elit. Sed pulvinar luctus est eget congue.
+                     Review1
                     </p>
-                    <h6>Boby</h6>
+                    <h6>Raghu</h6>
                   </div>
                 </div>
                 <!-- End single item -->
                 <div class="single-testi">
                   <div class="testi-text">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar luctus est eget congue.<br>consectetur adipiscing elit. Sed pulvinar luctus est eget congue.
+                     Review2
                     </p>
-                    <h6>Jhon</h6>
+                    <h6>Anand</h6>
                   </div>
                 </div>
                 <!-- End single item -->
                 <div class="single-testi">
                   <div class="testi-text">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar luctus est eget congue.<br>consectetur adipiscing elit. Sed pulvinar luctus est eget congue.
+                     Review3
                     </p>
-                    <h6>Fleming</h6>
+                    <h6>Arun</h6>
                   </div>
                 </div>
                 <!-- End single item -->
@@ -633,7 +576,9 @@
                   <h2>Vahathi</h2>
                 </div>
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                <p>Driving Training</p>
+		<p>RTO Service</p>
+		<p>Vehicle Service</p>
                 <div class="footer-icons">
                   <ul>
                     <li>
@@ -702,9 +647,9 @@
                 All the links in the footer should remain intact.
                 You can delete the links only if you purchased the pro version.
                 Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
-              -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness-->
+            
+              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>  
             </div>
           </div>
         </div>
